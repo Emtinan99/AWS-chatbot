@@ -1,0 +1,8 @@
+boto3
+pandas
+numpy
+requests
+scikit-learn
+flask
+fastapi
+python-dotenv
